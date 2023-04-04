@@ -13,3 +13,7 @@ def length(list):
         counter += 1
 
     return counter
+
+def printer(string):
+    print(string)
+
